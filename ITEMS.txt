@@ -1,0 +1,6 @@
+TrendGrabber.py		Basic pytrends example, using related_queries()
+searchTrendGrabber.py	Takes a few keywords, exports double in csv's (rising & top each)
+searchTrendAnalyzer.py	examples of all Google Api Features!
+RelatedSearch.py	Basic pytrends example, using related_queries()
+GoogleAPIexamples.py	examples of all Google Api Features!
+csvExamples.py		Youtube tutorial, using csv with keywords to make another with results
