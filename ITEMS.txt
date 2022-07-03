@@ -4,3 +4,12 @@ searchTrendAnalyzer.py	examples of all Google Api Features!
 RelatedSearch.py	Basic pytrends example, using related_queries()
 GoogleAPIexamples.py	examples of all Google Api Features!
 csvExamples.py		Youtube tutorial, using csv with keywords to make another with results
+
+
+How it works:
+
+we grab a payload of specific keywords.
+Once payload grabbed, we can sift through data related to keywords.
+
+the package site to get specifics:
+https://pypi.org/project/pytrends/

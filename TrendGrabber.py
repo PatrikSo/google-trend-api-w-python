@@ -27,6 +27,6 @@ data  = pytrends.related_queries()
 print(data['machine learning']['top'])
 
 keywords = pytrends.suggestions(keyword='Business Intelligence')
-df = px.DataFrame(keywords)
-print(df)
+#df = px.DataFrame(keywords)
+print(keywords)
 
